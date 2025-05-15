@@ -3,11 +3,11 @@
   "version": "1.0.3",
   "description": "plugin webpack set header ",
   "main": "index.js",
-  "author": "dolphinccccc",
+  "author": "liuxiaochao",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DOLPhincccc/autox-header-webpack-plugin.git"
+    "url": "git+git@github.com:Liuxiaochao/AutoXHeaderWebpackPlugin.git"
   },
-  "homepage": "https://github.com/DOLPhincccc/autox-header-webpack-plugin#README.md",
+  "homepage": "git@github.com:Liuxiaochao/AutoXHeaderWebpackPlugin.git#README.md",
   "license": "ISC"
 }
